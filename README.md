@@ -16,7 +16,7 @@ profile: Compiled successfuly.
                              Docker     5 years       4 [current stack]
                           SQL/MySQL     5 years       4 [current stack]
                             MongoDb     5 years       4
-                        Redis/NoSql     1 year        4
+                              Redis     1 year        4
                         Git/GitFlow     2 years       4 [current stack]
                           Socket.io     1 year        4 [current stack]
                            API/Rest     5 years       4 [current stack]
