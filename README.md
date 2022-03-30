@@ -27,11 +27,11 @@ profile: Compiled successfuly.
                                 AWS     2 years       3 [current stack]
                      Microsservices     2 years       3 [current stack]
                  Project Management     2 years       5 [current stack]
-                              COBOL     2 years       [deprecate]
-                       Visual Basic     1 year        [deprecate]
-                            Clipper     3 years       [deprecate]
-                        Quick Basic     2 years       [deprecate][long time ago]
-                              dBASE     2 years       [deprecate][before fire was invented]
+                              COBOL     2 years       [deprecated]
+                       Visual Basic     1 year        [deprecated]
+                            Clipper     3 years       [deprecated]
+                        Quick Basic     2 years       [deprecated][long time ago]
+                              dBASE     2 years       [deprecated][before fire was invented]
 
 [./app/daniel/core/skillset/profile.js] ./app/daniel/core/skillset/profile.js 4.0 kB {0} {1} [built]
 ```
