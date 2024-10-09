@@ -11,22 +11,21 @@ profile: Compiled successfuly.
                               Skill     Exp(Y)      Level (1 - 5)
                            HTML-CSS     5 years       3
                          JavaScript     5 years       4
-                             NodeJS     1 Year        3
+                             NodeJS     4 Year        3
                               Linux     10 years      5 [current stack]
                              Docker     5 years       4 [current stack]
                           SQL/MySQL     5 years       4 [current stack]
                             MongoDb     5 years       4
-                              Redis     1 year        4
-                        Git/GitFlow     2 years       4 [current stack]
+                              Redis     4 year        4
+                        Git/GitFlow     10 years      4 [current stack]
                           Socket.io     1 year        4 [current stack]
-                           API/Rest     5 years       4 [current stack]
-                            Flutter     6 months      3
-                             Python     5 years       4 [current stack]
-                             DJango     2 years       4
-                        Django Rest     2 years       4
+                           API/Rest     10 years      4 [current stack]
+                            Flutter     2 years       3
+                             Python     10 years      4 [current stack]
+                             DJango     10 years      4
                                 AWS     2 years       3 [current stack]
-                     Microsservices     2 years       3 [current stack]
-                 Project Management     2 years       5 [current stack]
+                     Microsservices     4 years       3 [current stack]
+                 Project Management     3 years       5 [current stack]
                               COBOL     2 years       [deprecated]
                        Visual Basic     1 year        [deprecated]
                             Clipper     3 years       [deprecated]
